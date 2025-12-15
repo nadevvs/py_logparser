@@ -1,0 +1,52 @@
+Jan 12 10:15:01 server1 sshd[2001]: Accepted password for john from 10.10.0.5 port 34501 ssh2
+Jan 12 10:15:02 server1 sshd[2002]: Failed password for invalid user admin from 192.168.1.44 port 51201 ssh2
+Jan 12 10:15:03 server1 sshd[2003]: Failed password for root from 8.8.8.8 port 55201 ssh2
+Jan 12 10:15:04 server1 sshd[2004]: Accepted password for alice from 10.10.0.8 port 34502 ssh2
+Jan 12 10:15:05 server1 sshd[2005]: Failed password for invalid user test from 203.0.113.5 port 60001 ssh2
+Jan 12 10:15:06 server1 sshd[2006]: Failed password for root from 8.8.8.8 port 55202 ssh2
+Jan 12 10:15:07 server1 sshd[2007]: Accepted password for bob from 10.10.0.12 port 34503 ssh2
+Jan 12 10:15:08 server1 sshd[2008]: Failed password for invalid user guest from 198.51.100.23 port 60101 ssh2
+Jan 12 10:15:09 server1 sshd[2009]: Failed password for root from 8.8.8.8 port 55203 ssh2
+Jan 12 10:15:10 server1 sshd[2010]: Accepted password for john from 10.10.0.5 port 34504 ssh2
+
+Jan 12 10:15:11 server1 sshd[2011]: Failed password for invalid user admin from 192.168.1.44 port 51202 ssh2
+Jan 12 10:15:12 server1 sshd[2012]: Failed password for root from 8.8.8.8 port 55204 ssh2
+Jan 12 10:15:13 server1 sshd[2013]: Failed password for invalid user oracle from 203.0.113.9 port 60002 ssh2
+Jan 12 10:15:14 server1 sshd[2014]: Accepted password for alice from 10.10.0.8 port 34505 ssh2
+Jan 12 10:15:15 server1 sshd[2015]: Failed password for invalid user test from 203.0.113.5 port 60003 ssh2
+Jan 12 10:15:16 server1 sshd[2016]: Failed password for root from 8.8.8.8 port 55205 ssh2
+Jan 12 10:15:17 server1 sshd[2017]: Accepted password for bob from 10.10.0.12 port 34506 ssh2
+Jan 12 10:15:18 server1 sshd[2018]: Failed password for invalid user guest from 198.51.100.23 port 60102 ssh2
+Jan 12 10:15:19 server1 sshd[2019]: Failed password for root from 8.8.8.8 port 55206 ssh2
+Jan 12 10:15:20 server1 sshd[2020]: Accepted password for john from 10.10.0.5 port 34507 ssh2
+
+Jan 12 10:15:21 server1 sshd[2021]: Failed password for invalid user admin from 192.168.1.44 port 51203 ssh2
+Jan 12 10:15:22 server1 sshd[2022]: Failed password for root from 8.8.8.8 port 55207 ssh2
+Jan 12 10:15:23 server1 sshd[2023]: Failed password for invalid user admin from 192.168.1.44 port 51204 ssh2
+Jan 12 10:15:24 server1 sshd[2024]: Accepted password for alice from 10.10.0.8 port 34508 ssh2
+Jan 12 10:15:25 server1 sshd[2025]: Failed password for invalid user test from 203.0.113.5 port 60004 ssh2
+Jan 12 10:15:26 server1 sshd[2026]: Failed password for root from 8.8.8.8 port 55208 ssh2
+Jan 12 10:15:27 server1 sshd[2027]: Accepted password for bob from 10.10.0.12 port 34509 ssh2
+Jan 12 10:15:28 server1 sshd[2028]: Failed password for invalid user guest from 198.51.100.23 port 60103 ssh2
+Jan 12 10:15:29 server1 sshd[2029]: Failed password for root from 8.8.8.8 port 55209 ssh2
+Jan 12 10:15:30 server1 sshd[2030]: Accepted password for john from 10.10.0.5 port 34510 ssh2
+
+Jan 12 10:15:31 server1 sshd[2031]: Failed password for invalid user admin from 192.168.1.44 port 51205 ssh2
+Jan 12 10:15:32 server1 sshd[2032]: Failed password for root from 8.8.8.8 port 55210 ssh2
+Jan 12 10:15:33 server1 sshd[2033]: Failed password for invalid user admin from 192.168.1.44 port 51206 ssh2
+Jan 12 10:15:34 server1 sshd[2034]: Accepted password for alice from 10.10.0.8 port 34511 ssh2
+Jan 12 10:15:35 server1 sshd[2035]: Failed password for invalid user test from 203.0.113.5 port 60005 ssh2
+Jan 12 10:15:36 server1 sshd[2036]: Failed password for root from 8.8.8.8 port 55211 ssh2
+Jan 12 10:15:37 server1 sshd[2037]: Accepted password for bob from 10.10.0.12 port 34512 ssh2
+Jan 12 10:15:38 server1 sshd[2038]: Failed password for invalid user guest from 198.51.100.23 port 60104 ssh2
+Jan 12 10:15:39 server1 sshd[2039]: Failed password for root from 8.8.8.8 port 55212 ssh2
+Jan 12 10:15:40 server1 sshd[2040]: Accepted password for john from 10.10.0.5 port 34513 ssh2
+
+Jan 12 10:15:41 server1 sshd[2041]: Failed password for invalid user admin from 192.168.1.44 port 51207 ssh2
+Jan 12 10:15:42 server1 sshd[2042]: Failed password for root from 8.8.8.8 port 55213 ssh2
+Jan 12 10:15:43 server1 sshd[2043]: Failed password for invalid user admin from 192.168.1.44 port 51208 ssh2
+Jan 12 10:15:44 server1 sshd[2044]: Accepted password for alice from 10.10.0.8 port 34514 ssh2
+Jan 12 10:15:45 server1 sshd[2045]: Failed password for invalid user test from 203.0.113.5 port 60006 ssh2
+Jan 12 10:15:46 server1 sshd[2046]: Failed password for root from 8.8.8.8 port 55214 ssh2
+
+
